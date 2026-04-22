@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Competition Autonomous Rover
-description:  Worked with a team of 6 to build and program the autonomous rover. I was responsible for the structure, electronics, and code program. 
+description:  Worked with a team of 6 to build and program the autonomous rover. I was responsible for the structure, electronics, and code program. Our rover achieved top 5 in the final competition. 
 skills: 
 - Manufacturing 
 - Arduino / programming
