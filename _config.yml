@@ -7,7 +7,7 @@
 
 # Main Page Setup
 
-title: Nathan Thurmon - Portfolio# This is what shows up in the tab of the browser
+title: Nathan Thurmon - Portfolio 
 
 
 
@@ -18,7 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Hello! My name is Nate. I am a first year aerospace student at the University of California, Irvine. 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: /assets/images/profile-image/avatar.JPEG
+profile_image: assets/images/profile-image/avatar.jpeg
 
 
 # Link your resume
