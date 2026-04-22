@@ -15,7 +15,8 @@ main-image: /picture.png
 
 ---
 ## Structure 
-{% include image-gallery.html images="structure.png" height="400" %} 
+{% include image-gallery.html images="structure.png" height="400" %}
+{% include image-gallery.html images="picture.png" height="400" %} 
 The skeleton of our project showing off the unique design we decided on.  
 
 <br>
