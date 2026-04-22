@@ -17,6 +17,7 @@ main-image: /output.png
 {% include image-gallery.html images="avg.png, generation.png" height="600" %}  
 {% include image-gallery.html images="user.png" height="600" %}  
 {% include image-gallery.html images="output.png" height="600" %}  
+<br>
 The program has recommended that this example user should start working towards a healthy weight and include exercise in their routine. Additionally, the program reminds the user how lucky they were to be born in a country with access to healthcare. 
 
 <br>
