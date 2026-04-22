@@ -15,8 +15,7 @@ main-image: /picture.png
 
 ---
 ## Structure 
-{% include image-gallery.html images="structure.png" height="400" %}
-{% include image-gallery.html images="picture.png" height="400" %} 
+{% include image-gallery.html images="structure.png" height="400" %}{% include image-gallery.html images="picture.png" height="400" %} 
 The skeleton of our project showing off the unique design we decided on.  
 
 <br>
@@ -29,4 +28,4 @@ My biggest contribution and by far the longest time spent of my responsibilities
 
 ## Wiring 
 {% include image-gallery.html images="wiring.png" height="400" %} 
-Wiring was worked on by both me and a teammate.  
+The wiring was worked on by both me and a teammate.  
