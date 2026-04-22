@@ -14,14 +14,14 @@ main-image: /picture.png
 ---
 
 ---
-# Structure 
+## Structure 
 {% include image-gallery.html images="structure.png" height="400" %} 
 The skeleton of our project showing off the unique design we decided on.  
 
-# Code 
+## Code 
 {% include image-gallery.html images="code.png" height="400" %} 
 My biggest contribution and by far the longest time spent of my responsibilities.  
 
-# Wiring 
+## Wiring 
 {% include image-gallery.html images="wiring.png" height="400" %} 
 Wiring was worked on by both me and a teammate.  
